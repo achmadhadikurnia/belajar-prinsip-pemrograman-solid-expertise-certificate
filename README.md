@@ -1,4 +1,4 @@
-# Dicoding: Belajar Prinsip Pemrograman SOLID
+# Belajar Prinsip Pemrograman SOLID
 Pelajari kelima prinsip desain yang merupakan pedoman untuk rancangan kode yang baik pada pemrograman berorientasi objek (OOP).
 
 ## Class
